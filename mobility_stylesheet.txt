@@ -98,6 +98,15 @@
 }
 
 
+
+#box-tiers {
+	position: absolute;
+	height: 50%;
+
+}
+
+
+
 .thing
 {
 	display:inline-block;
