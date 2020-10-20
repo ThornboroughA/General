@@ -112,7 +112,7 @@ right:50%;
 .thing
 {
 	display:inline-block;
-	padding:0px;
+	padding:3px;
 	cursor:pointer;
 }
 .thing:active
