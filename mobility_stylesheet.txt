@@ -54,7 +54,7 @@
 	height:5%;
 	min-height:32px;
 	z-index:100;
-	position:relative;
+	position:absolute;
 }
 #box-buttons
 {
