@@ -115,7 +115,11 @@ right:50%;
 
 
 
+.thing:rank 
+{
+	display:block;
 
+}
 
 .thing
 {
