@@ -132,7 +132,7 @@ right:50%;
 {
 	opacity:0.65;
 }
-.thing.rank
+.thing-rank
 {
 	display:block;
 	color:MediumSeaGreen;
