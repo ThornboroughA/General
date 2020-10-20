@@ -72,7 +72,7 @@
 	width:40%;
 	position:absolute;
 }
-#box-buildings,#box-upgrades
+#box-buildings,#box-upgrades, #box-tiers
 {
 	top:0px;
 	bottom:0px;
