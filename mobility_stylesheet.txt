@@ -182,7 +182,7 @@ right:50%;
 
 .fullWidth .thing-icon
 {
-	margin-top:3px;
+	margin-top:100px;
 	margin-bottom:-10px;
 }
 .fullWidth .thing-text
