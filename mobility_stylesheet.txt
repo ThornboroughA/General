@@ -61,17 +61,17 @@
 }
 #box-buttons
 {
-	top:25%;
+	top:0px;
 	right:0px;
 	bottom:0px;
-	left:25%;
+	left:0px;
 	position:absolute;
 }
 #box-tiers {
 	display:block;
 	left:0px;
 	top:0px;
-	width:150px;
+	max-width:150px;
 	position:absolute;
 }
 #box-store
