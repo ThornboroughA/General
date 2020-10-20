@@ -112,7 +112,7 @@ right:50%;
 .thing
 {
 	display:inline-block;
-	padding:3px;
+	padding:0px;
 	cursor:pointer;
 }
 .thing:active
@@ -182,7 +182,7 @@ right:50%;
 
 .fullWidth .thing-icon
 {
-	margin-top:-10px;
+	margin-top:3px;
 	margin-bottom:-10px;
 }
 .fullWidth .thing-text
