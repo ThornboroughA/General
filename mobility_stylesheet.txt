@@ -55,6 +55,8 @@
 	min-height:32px;
 	z-index:100;
 	position:absolute;
+	
+	font-size:18px;
 }
 #box-buttons
 {
@@ -167,7 +169,7 @@ right:50%;
 }
 .fullWidth,.fullWidth:hover
 {
-	background:rgba(0,0,0,0.75);
+	background:linear-gradient(to right,rgba(0,0,0,0) 0%,rgba(0,0,0,0.25) 50%,rgba(0,0,0,0) 100%);
 	box-shadow:none;
 	color:#fff;
 }
@@ -175,8 +177,7 @@ right:50%;
 {
 	content:'';
 	height:1px;
-	background:rgba(255,255,255,0.75);
-	position:absolute;
+	background:linear-gradient(to right,rgba(255,255,255,0) 0%,rgba(255,255,255,0.25) 50%,rgba(255,255,255,0) 100%);
 	left:0px;
 	right:0px;
 	z-index:-1;
