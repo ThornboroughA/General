@@ -99,11 +99,10 @@ right:50%;
 	background:transparent;
 }
 #box-tiers {
-	position: relative;
+	position: absolute;
 	left: 0px;
 	top:0px;
 	bottom:0px;
-	width:200px;
 }
 
 
