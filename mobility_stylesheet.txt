@@ -50,8 +50,8 @@
 #box-res.fullWidth
 {
 	width:100%;
-	top:5%;
-	height:5%;
+	top:0%;
+	height:15%;
 	min-height:32px;
 	z-index:100;
 	position:absolute;
@@ -182,7 +182,7 @@ right:50%;
 
 .fullWidth .thing-icon
 {
-	margin-top:100px;
+	margin-top:-10px;
 	margin-bottom:-10px;
 }
 .fullWidth .thing-text
