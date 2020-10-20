@@ -84,11 +84,11 @@
 	position:absolute;
 }
 #box-buildings
-{right:50%;}
+{right:20%;}
 
 #box-buildings>.box-header
 {
-	padding-bottom:160px;
+	padding-bottom:16px;
 }
 #bulkDisplay
 {
