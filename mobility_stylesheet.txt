@@ -56,9 +56,15 @@
 	z-index:100;
 	position:absolute;
 	
-	font-size:18px;
+	
 	padding:3px;
 }
+#box-res 
+{
+	font-size:24px;
+	padding: 3px 5px 10px 10px;
+}
+
 #box-buttons
 {
 	top:0px;
