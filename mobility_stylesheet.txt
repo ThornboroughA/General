@@ -40,7 +40,7 @@
 
 #box-main
 {
-	left:0px;
+	left:100px;
 	top:0px;
 	bottom:0px;
 	overflow:hidden;
@@ -57,6 +57,7 @@
 	position:absolute;
 	
 	font-size:18px;
+	padding:3px;
 }
 #box-buttons
 {
@@ -65,6 +66,12 @@
 	bottom:0px;
 	left:25%;
 	position:absolute;
+}
+#box-tiers {
+	left:0px;
+	top:0px;
+	width:100px;
+	position: absolute;
 }
 #box-store
 {
@@ -104,12 +111,7 @@ right:50%;
 	border:none;
 	background:transparent;
 }
-#box-tiers {
-	left: 0px;
-	top:0px;
-	width:100px;
-	position: absolute;
-}
+
 
 
 
@@ -169,7 +171,6 @@ right:50%;
 }
 .fullWidth,.fullWidth:hover
 {
-	background:linear-gradient(to right,rgba(0,0,0,0) 0%,rgba(0,0,0,0.25) 50%,rgba(0,0,0,0) 100%);
 	box-shadow:none;
 	color:#fff;
 }
@@ -177,7 +178,6 @@ right:50%;
 {
 	content:'';
 	height:1px;
-	background:linear-gradient(to right,rgba(255,255,255,0) 0%,rgba(255,255,255,0.25) 50%,rgba(255,255,255,0) 100%);
 	left:0px;
 	right:0px;
 	z-index:-1;
