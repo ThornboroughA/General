@@ -114,13 +114,6 @@ right:50%;
 
 
 
-
-.thing:rank 
-{
-	display:block;
-
-}
-
 .thing
 {
 	display:inline-block;
@@ -139,6 +132,12 @@ right:50%;
 {
 	opacity:0.65;
 }
+.thing:rank , .thing:rankAchs
+{
+	display:block;
+	color:MediumSeaGreen;
+}
+
 .upgrade.cantAfford
 {
 	border:none;
