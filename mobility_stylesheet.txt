@@ -101,7 +101,8 @@ right:50%;
 #box-tiers {
 	position: absolute;
 	left: 0%;
-	width:100%;
+	width:100px;
+	height:100%;
 }
 
 
