@@ -40,7 +40,7 @@
 
 #box-main
 {
-	left:100px;
+	left:150px;
 	top:0px;
 	bottom:0px;
 	overflow:hidden;
@@ -71,7 +71,7 @@
 	display:block;
 	left:0px;
 	top:0px;
-	width:100px;
+	width:150px;
 	position:absolute;
 }
 #box-store
