@@ -74,10 +74,10 @@
 	position:absolute;
 }
 #box-cheats {
-	bottom:100%;
+	bottom:80%;
 	right:75%;
 	left:25%;
-	position:relative;
+	position:absolute;
 	height:100px;
 	z-index:100;
 }
