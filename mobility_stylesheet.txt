@@ -74,8 +74,8 @@
 	position:absolute;
 }
 #box-cheats {
-	bottom:80%;
-	right:75%;
+	bottom:10%;
+	right:0px;
 	left:25%;
 	position:absolute;
 	height:100px;
