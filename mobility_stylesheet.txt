@@ -73,6 +73,12 @@
 	left:0px;
 	position:absolute;
 }
+#box-cheats {
+	bottom:0px;
+	right:75%;
+	left:25%;
+	position:relative;
+}
 #box-tiers {
 	left:0px;
 	top:0px;
